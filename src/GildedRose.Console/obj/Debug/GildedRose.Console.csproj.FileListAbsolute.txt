@@ -1,0 +1,5 @@
+D:\Git\GildedRose\src\GildedRose.Console\bin\Debug\GildedRose.Console.exe.config
+D:\Git\GildedRose\src\GildedRose.Console\bin\Debug\GildedRose.Console.exe
+D:\Git\GildedRose\src\GildedRose.Console\bin\Debug\GildedRose.Console.pdb
+D:\Git\GildedRose\src\GildedRose.Console\obj\Debug\GildedRose.Console.exe
+D:\Git\GildedRose\src\GildedRose.Console\obj\Debug\GildedRose.Console.pdb

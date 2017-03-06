@@ -1,0 +1,13 @@
+D:\Git\GildedRose\src\GildedRose.Tests\bin\Debug\xunit.abstractions.dll
+D:\Git\GildedRose\src\GildedRose.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+D:\Git\GildedRose\src\GildedRose.Tests\bin\Debug\xunit.runner.utility.desktop.dll
+D:\Git\GildedRose\src\GildedRose.Tests\bin\Debug\xunit.execution.desktop.dll
+D:\Git\GildedRose\src\GildedRose.Tests\bin\Debug\GildedRose.Tests.dll
+D:\Git\GildedRose\src\GildedRose.Tests\bin\Debug\GildedRose.Tests.pdb
+D:\Git\GildedRose\src\GildedRose.Tests\obj\Debug\GildedRose.Tests.csprojResolveAssemblyReference.cache
+D:\Git\GildedRose\src\GildedRose.Tests\obj\Debug\GildedRose.Tests.dll
+D:\Git\GildedRose\src\GildedRose.Tests\obj\Debug\GildedRose.Tests.pdb
+D:\Git\GildedRose\src\GildedRose.Tests\bin\Debug\GildedRose.Console.exe
+D:\Git\GildedRose\src\GildedRose.Tests\bin\Debug\nunit.framework.dll
+D:\Git\GildedRose\src\GildedRose.Tests\bin\Debug\GildedRose.Console.pdb
+D:\Git\GildedRose\src\GildedRose.Tests\bin\Debug\nunit.framework.xml
